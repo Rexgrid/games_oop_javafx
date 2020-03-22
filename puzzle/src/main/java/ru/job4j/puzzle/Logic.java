@@ -97,6 +97,7 @@ public class Logic {
                     result = true;
                     break;
                 }
+                break;
             }
         }
         return result;
